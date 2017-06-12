@@ -1,2 +1,2 @@
 # Front-end-tests
-My front end training
+A few projects using HTML, CSS and JavaScript
